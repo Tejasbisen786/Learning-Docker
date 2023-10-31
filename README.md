@@ -84,7 +84,8 @@ docker run -it -p -e key=value -e key=value   1024:1024 mailhog/mailhog
 - Dockerfile - Write step pick base os
 - basic demo application image file hosted on docker hub
 
-<a> https://hub.docker.com/repository/docker/tejasbisen/tejasnode-app/general </a>
+ - pull this image from here
+<a> https://hub.docker.com/r/tejasbisen/tejasnode-app </a>
 
 
 
