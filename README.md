@@ -82,6 +82,7 @@ docker run -it -p -e key=value -e key=value   1024:1024 mailhog/mailhog
 # Dockerization NODE js application 
 
 - Dockerfile - Write step pick base os
+- basic demo application image file hosted on docker hub
 
 <a> https://hub.docker.com/repository/docker/tejasbisen/tejasnode-app/general </a>
 
