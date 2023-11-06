@@ -93,7 +93,12 @@ docker run -it -p -e key=value -e key=value   1024:1024 mailhog/mailhog
    - Container Can Destroy as well as setup 
    - For Compose command:
       - docker compose up
-
+      - sudo docker compose up
+      - ctrl +c - To Destroy the container
+      - docker compose down : to remove the container
+      - docker compose up -d : run container in backgorund 
+      - 
+# Here Docker Part I  Completed
 
 
 
