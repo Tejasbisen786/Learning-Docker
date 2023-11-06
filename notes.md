@@ -79,7 +79,15 @@ docker run -it -p -e key=value -e key=value   1024:1024 mailhog/mailhog
 
 # Dockerization NODE js application 
 
-- Dockerfile - Write step pick base os
+- Dockerfile - Write step pick base os and rest operation related your aplliction that you're building 
+
+
+# Docker Compose
+
+the concept related with executing more than one contianer at a time and simlutaneously all should run and give services to the users
+  - You can Create And Setup Compose 
+  - YOu can Configure
+  - You can Destroy the container
 
 
 

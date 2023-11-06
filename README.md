@@ -88,6 +88,12 @@ docker run -it -p -e key=value -e key=value   1024:1024 mailhog/mailhog
 <a> https://hub.docker.com/r/tejasbisen/tejasnode-app </a>
 
 
+# Docker Compose
+   - Docker Can Create the  container setup and configure
+   - Container Can Destroy as well as setup 
+   - For Compose command:
+      - docker compose up
+
 
 
 
